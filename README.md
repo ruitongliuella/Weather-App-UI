@@ -22,7 +22,7 @@ A recreation of Apple's Weather app interface built with **SwiftUI**. This proje
 
 ## Screenshot
 
-  <img src="Spotify%20UI/screenshots/weather-ui.png" alt="Apple Weather UI Screenshot" width="300">
+  <img src="screenshots/weather-ui.png" alt="Apple Weather UI Screenshot" width="300">
 
 ## What I Learned
 
